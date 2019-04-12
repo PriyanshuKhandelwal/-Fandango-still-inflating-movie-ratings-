@@ -1,4 +1,4 @@
-***Note***: *Refer full python notebook to understand objective, goal and conclusion*.
+***Note***: *Refer full python notebook to understand objective, solution and conclusion*.
 *******************************
 (As per year 2015-16)
 # -Fandango-inflating-movie-ratings-
