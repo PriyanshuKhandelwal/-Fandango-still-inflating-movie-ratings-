@@ -1,4 +1,7 @@
-# -Fandango-still-inflating-movie-ratings-
+***Note***: *Refer full python notebook to understand objective, goal and conclusion*.
+*******************************
+(As per year 2015-16)
+# -Fandango-inflating-movie-ratings-
  (As per year 2015-16) Fandango inflating movie ratings?
  
 In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest ([Fandango](https://www.fandango.com/) is an online movie ratings aggregator). He published his analysis in this [article.](https://fivethirtyeight.com/features/fandango-movies-ratings/)
